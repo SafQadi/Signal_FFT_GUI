@@ -3,6 +3,8 @@ A simple python GUI generated with pyQt5 Designer to calculate and show the FFT 
 (separated by a tabulator {\t}. A low pass filter can also be applied on the series.
 An input field allows the user to input the value of the cutoff frequency of the filter.
 
+Autor: Safwan Al-Qadhi
+Last modified: 22.07.2021
 """
 
 from PyQt5 import QtCore, QtGui, QtWidgets
