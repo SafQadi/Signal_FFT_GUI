@@ -11,7 +11,7 @@ A low pass filter can also be applied on the series. An input field allows the u
 
 # Load data
 - With the load botton you can load the time series. 
-- Select the file and click open (or double click the file) and it will be loaded automatically 
+- Select the file and click open (or double click the file) and it will be loaded automatically.
 Two test files with two different time series are included.
 
 # FFT
