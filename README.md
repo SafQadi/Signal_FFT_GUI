@@ -6,7 +6,7 @@ A low pass filter can also be applied on the series. An input field allows the u
 
 
 # Start the GUI
-- Down load the code
+- Download the code
 - Double click on the main.py to start the GUI. 
 
 # Load data
