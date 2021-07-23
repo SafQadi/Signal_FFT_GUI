@@ -19,7 +19,7 @@ Two test files with two different time series are included.
 
 ## Low Pass filter
 - User can select either first "1st" or second "2nd" order filter and input the cut-off frequeny of the filter
-- With the " Apply Filter " botton, the Graphs will be updated showing in a different colors the filtered signal and its corresponding FFT 
+- With the " Apply Filter " botton, the Graphs will be updated showing in a different color the filtered signal and its corresponding FFT 
 
 
 
