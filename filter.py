@@ -9,6 +9,8 @@ class MyFilter:
 
     Author: Safwan Al-Qadhi
     Last modified: 22.07.2021
+    
+    
     """
     def __init__(self, freq, sample):
 
