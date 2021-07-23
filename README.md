@@ -5,19 +5,19 @@ A low pass filter can also be applied on the series. An input field allows the u
 ![GitHub Logo](Screenshot.png)
 
 
-# Start the GUI
+## Start the GUI
 - Download the code
 - Double click on the main.py file to start the GUI. 
 
-# Load data
+## Load data
 - With the load botton you can load the time series. 
 - Select the file and click open (or double click the file) and it will be loaded automatically.<br />
 Two test files with two different time series are included.
 
-# FFT
+## FFT
 - With the FFT botton you can show the FFT of the time series
 
-# Low Pass filter
+## Low Pass filter
 - User can select either first "1st" or second "2nd" order filter 
 - User can also input the cut-off frequeny of the filter
 - With the " Apply Filter " botton, the Graphs will be updated showing in a different color the filtered signal and its corresponding FFT 
