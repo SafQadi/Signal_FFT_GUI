@@ -9,9 +9,17 @@ class MyFilter:
 
     Author: Safwan Al-Qadhi
     Last modified: 22.07.2021
-    
-    
+
+    Parameters:
+
+        Cutoff-frequency (Hz)
+        sampling ratio (Samples/sec.)
+
+        output:
+        filtered signal
     """
+
+
     def __init__(self, freq, sample):
 
         self._cutoff_freq = freq

@@ -1,5 +1,5 @@
 """
-A simple python GUI generated with pyQt5 Designer to calculate and show the FFT of time series
+A simple python GUI generated with pyQt5 Designer to calculate and display the FFT of time series
 (separated by a tabulator {\t}. A low pass filter can also be applied on the series.
 An input field allows the user to input the value of the cutoff frequency of the filter.
 
@@ -22,8 +22,8 @@ from filter import MyFilter
 
 class MainClass(QtWidgets.QMainWindow, Ui_MainWindow):
 
-    def __init__(self, parent=None):
-        super(MainClass, self).__init__(parent)
+    def __init__(self):
+        super(MainClass, self).__init__()
         self.ui = Ui_MainWindow()
         self.ui.setupUi(self)
 
